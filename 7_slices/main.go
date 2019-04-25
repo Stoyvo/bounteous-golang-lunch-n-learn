@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	/* SLICE */
 	// Slices have similar markup to arrays, but is a more powerful interface for sequences
 	// A slice represents a flexible-length array-like data type while providing full control over memory allocations.
 

@@ -5,8 +5,6 @@ import (
 )
 
 func main() {
-	/* IF STATEMENTS */
-
 	i := 1
 
 	if i > 4 {
