@@ -15,7 +15,7 @@ Topics
 11. Methods | Pointers | Errors
 12. GoRoutines
 13. Channels
-999. HTTP Server W/ Routing
+999. HTTP Server
 
 ---
 
