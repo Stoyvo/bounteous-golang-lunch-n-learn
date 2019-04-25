@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	// USING 7_slices tutorial
+	// USING 007_slices tutorial
 	a := make([]string, 3)
 	fmt.Println("arraya:", a, "| Length:", len(a))
 

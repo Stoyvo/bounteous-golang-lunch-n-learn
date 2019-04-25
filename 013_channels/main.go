@@ -9,7 +9,7 @@ import (
 // You can send values into channels from one goroutine and receive those values into another goroutine.
 
 func main() {
-	// USING 12_goroutines
+	// USING 012_goroutines
 	f("direct") // Main thread
 
 	done := make(chan bool)
